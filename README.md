@@ -641,14 +641,14 @@ Algorithms is not something you learn overnight, it takes practice and consisten
 SOLUTIONS TO PROBLEM SET 1:
 Reduce the following to it Big-O magnitude:
 
-1) 5 + n 					// O(N)
-2) n + n^2					// O(n^2)
-3) 15n + 13n				// O(n)
-4) 10000					// O(1)
-5) log(n) + 1				// O(log(n))
+1) 5 + n 			// O(N)
+2) n + n^2			// O(n^2)
+3) 15n + 13n			// O(n)
+4) 10000			// O(1)
+5) log(n) + 1			// O(log(n))
 6) log(n) * 3 + 14n + 3		// O(n)
-7) nlog(n) + 3n^2			// O(n^2)
-8) n^3 + log(n^4)			// O(n^3)
-9) n! + 180000n^2 			// O(n!)
-10) 300n^5 + 15002^n + 3n	// O(n^5)
+7) nlog(n) + 3n^2		// O(n^2)
+8) n^3 + log(n^4)		// O(n^3)
+9) n! + 180000n^2 		// O(n!)
+10) 300n^5 + 15002^n + 3n	// O(15002^n)
 ```
