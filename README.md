@@ -627,8 +627,7 @@ Here are a few resources that you can use to test yourself:
 
 * [Leetcode Mock Interview](https://leetcode.com/mockinterview/)
 * [Pramp - practice with others live](https://pramp.com/)
-
-***Under Construction***
+* [interviewing.io - Free and paid options](https://interviewing.io/)
 
 ## 8. Final Notes
 Algorithms is not something you learn overnight, it takes practice and consistency.  I hope you found this as a useful starting point. I will be expanding on this resource  in the weeks to come.  Please reach out to me if you have any questions.
