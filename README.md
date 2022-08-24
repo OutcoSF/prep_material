@@ -478,7 +478,7 @@ Below are some common examples of algorithms and patterns that lead to different
 
 ### 1j. Leveling Up on Complexity Analysis
 
-Learn more by doing. Work to analyze problems and evaluate the code you have written out. Go through these two tutorials to get more practice on some problems. Furthermore, from now on, every algorithm you write should be analyzed for complexity.
+Learn more by doing. Work to analyze problems and evaluate the code you have written out. Go through these three tutorials to get more practice on some problems. Furthermore, from now on, every algorithm you write should be analyzed for complexity.
 
 1. [Asymptotic Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation) by Khan Academy
 
