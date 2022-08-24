@@ -249,7 +249,7 @@ function printAll(arr) {
 // reduce down to O(N) or linear time complexity
 ```
 
-**While Loops** Sometimes loops can be tricky, especially with ```while``` loops. You have to really evaluate the code to see how many times the loops runs and if it is proportional to the input.
+**While Loops:** Sometimes loops can be tricky, especially with ```while``` loops. You have to really evaluate the code to see how many times the loops runs and if it is proportional to the input.
 
 ---
 
